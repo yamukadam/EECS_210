@@ -1,0 +1,39 @@
+Question 1 Part A Graph G1:
+Euler circuit: a-e-c-d-e-b-a
+
+Question 1 Part A Graph G2:
+Not a euler circuit because the following vertices have a odd number of edges: ['a', 'b', 'd', 'c']
+
+Question 1 Part A Graph G3:
+Not a euler circuit because the following vertices have a odd number of edges: ['a', 'b']
+
+Question 1 Part A Graph: Bridge:
+Not a euler circuit because the following vertices have a odd number of edges: ['a', 'c', 'b', 'd']
+
+Question 1 Part B:
+Euler circuit: a-b-c-f-i-h-g-d-b-e-f-h-e-d-a
+
+Question 2 Part A Graph G1:
+This may or may not be a hamilton circuit.
+
+Question 2 Part A Graph G2:
+This may or may not be a hamilton circuit.
+
+Question 2 Part A Graph G3:
+This may or may not be a hamilton circuit.
+
+Question 2 Part B
+This may or may not be a hamilton circuit.
+
+Question 3 Part A Graph G1:
+This graph is a hamilton circuit.
+
+Question 3 Part A Graph G2:
+This may or may not be a hamilton circuit.
+
+Question 3 Part A Graph G3:
+This may or may not be a hamilton circuit.
+
+Question 3 Part B
+This may or may not be a hamilton circuit.
+
